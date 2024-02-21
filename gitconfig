@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gaillard.heloise@yahoo.com
+	name = heloise gaillard
